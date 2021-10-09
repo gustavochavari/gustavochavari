@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Gustavo</h1>
 <h3 align="center">A young mathematician and data scientist.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavochavari&label=Profile%20views&color=0e75b6&style=flat" alt="gustavochavari" /> </p>
-
 - 🔭 I’m currently working on **Raccoon Digital Marketing**
 
 - 🌱 I’m currently learning **Machine Learning, Probability Theory and Computer Science**
@@ -25,3 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavochavari&show_icons=true&locale=en" alt="gustavochavari" /></p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavochavari&label=Profile%20views&color=0e75b6&style=flat" alt="gustavochavari" /> </p>
