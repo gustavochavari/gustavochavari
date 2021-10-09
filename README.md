@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **gustavochavari@gmail.com**
 
-- 📄 Know about my experiences [hthttps://www.linkedin.com/in/gustavo-chavari/](hthttps://www.linkedin.com/in/gustavo-chavari/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
