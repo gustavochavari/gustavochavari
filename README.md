@@ -1,13 +1,11 @@
 <h1 align="center">Hey 👋, I'm Gustavo</h1>
-<h3 align="center">A young mathematician and data scientist.</h3>
+<h3 align="center">Working as data scientist and mastering in Computer Science at UFSCar-BR.</h3>
 
 - 🔭 I’m currently working on **Raccoon Digital Marketing**
 
-- 🌱 I’m currently learning **Machine Learning, Probability Theory and Computer Science**
+- 🌱 I’m currently learning **Manifold Learning, Probability Theory, Differential Geometry**
 
-- 👯 I’m looking to collaborate on **Data Science and Information Geometry**
-
-- 💬 Ask me about **Analysis, Linear Algebra, Geometry and Philosophy**
+- 👯 I’m looking to collaborate on **Data Science projects**
 
 - 📫 How to reach me **gustavochavari@gmail.com**
 
