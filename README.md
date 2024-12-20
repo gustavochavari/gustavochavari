@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Gustavo</h1>
 <h3 align="center">A data scientist and master's in Computer Science at UFSCar-BR.</h3>
 
-I’m currently working on Manifold Learning, Probability Theory, and Differential Geometry. If you want to collaborate with me on Data Science projects, email me atgustavochavari@gmail.com.
+I’m working on Computer Vision, Manifold Learning, Probability Theory, and Differential Geometry. If you want to collaborate with me on Data Science projects, email me at gustavochavari@gmail.com.
 
 
 <h3 align="left">Connect with me:</h3>
