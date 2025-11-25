@@ -15,7 +15,4 @@ PhD candidate on Computer Vision, Manifold Learning, Probability Theory, and Dif
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavochavari&show_icons=true&locale=en" alt="gustavochavari" /></p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavochavari&label=Profile%20views&color=0e75b6&style=flat" alt="gustavochavari" /> </p>
