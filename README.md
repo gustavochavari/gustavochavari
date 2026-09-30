@@ -12,7 +12,7 @@ PhD candidate on Computer Vision, Manifold Learning, Probability Theory, and Dif
 <h3 align="left">Google Scholar:</h3>
 <p align="left">
 <a href="https://scholar.google.com/citations?user=Aikc_SsAAAAJ&hl=pt-BR" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Gustavo Chavari Scholar" height="30" width="40" />
+<img align="center" src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThPXWsBG6HZJFENXd_tFP9vt1sVYHUsHrgcbhB71PsyyVMw2-9WkKe70-_&s=10)" alt="Gustavo Chavari Scholar" height="30" width="40" />
 </a>
 </p>
 
